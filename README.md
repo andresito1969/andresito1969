@@ -14,7 +14,7 @@
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
 
 ### Skills achieved
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,materialui,mongodb,mysql,nodejs,vue,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,bootstrap,git,materialui,mongodb,mysql,nodejs,vue,laravel,angular,vscode)](https://skillicons.dev)
 ### ⚡Fun facts
 Im not only a developer, I'm also a human. Hehe jokes aside.
 - 🧘 I like yoga.
