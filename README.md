@@ -10,7 +10,6 @@
 
 ### 📫 You can reach me on:
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ernesto-andres-rosillo/)
-[![Contact](https://skillicons.dev/icons?i=github)](https://github.com/andresito1969)
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
 
 ### Skills achieved
