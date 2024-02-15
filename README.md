@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Ernesto Andrés Rosillo Rojas
-##  I am a Fullstack web developer who likes elegant code, I also like to implement best practices and learn the path of clean code!
+##  I am a Fullstack web developer who likes elegant code, I also like to implement best practices and I love to learn the path of the clean code!
 
 ### 🌱 I'm learning at the moment:
 - ⛪ Laravel architecture.
