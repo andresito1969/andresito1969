@@ -11,6 +11,7 @@
 ### 📫 You can reach me on:
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ernesto-andres-rosillo/)
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
+[![Contact](https://skillicons.dev/icons?i=twitter)](https://twitter.com/1a738a)
 
 ### Skills achieved
 [![My Skills](https://skillicons.dev/icons?i=php,js,bootstrap,git,materialui,mongodb,mysql,nodejs,vue,laravel,angular,vscode)](https://skillicons.dev)
