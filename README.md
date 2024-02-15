@@ -4,8 +4,8 @@
 
 - ⛪ Learning laravel architecture at the moment.
 - 💻 Learning vuejs.
-- 📝 Design patterns and best practices thanks to [roadmap.sh/](https://roadmap.sh/full-stack) 
-- 📚 Computer science thanks to [roadmap.sh/](https://roadmap.sh/computer-science)
+- 📝 Design patterns and best practices thanks to [FullStack_Roadmap](https://roadmap.sh/full-stack) 
+- 📚 Computer science thanks to [CS_Roadmap](https://roadmap.sh/computer-science)
 
 
 ### 📫 You can reach me on:
