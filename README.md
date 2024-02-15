@@ -13,7 +13,7 @@
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
 [![Contact](https://skillicons.dev/icons?i=twitter)](https://twitter.com/1a738a)
 
-### Skills achieved
+### 🧠 Skills achieved
 [![My Skills](https://skillicons.dev/icons?i=php,js,bootstrap,git,materialui,mongodb,mysql,nodejs,vue,laravel,angular,vscode)](https://skillicons.dev)
 ### ⚡Fun facts
 Im not only a developer, I'm also a human. Hehe jokes aside.
