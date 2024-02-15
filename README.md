@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Ernesto Andrés Rosillo Rojas
+## Hi there 👋 my name is Ernesto Andrés Rosillo Rojas
 
 ### 🌱 I am a Fullstack web developer who likes elegant code, I also like to implement best practices and learn the path of clean code!
 
