@@ -1,11 +1,17 @@
 ### Hi there 👋 my name is Ernesto Andrés Rosillo Rojas
 ##  I am a Fullstack web developer who likes elegant code🎩, I also like to implement best practices📝 and I love to learn the path of the clean code📖!
 
+### 💼 Skills achieved :
+- 🖥  Back-End: PHP, Laravel, Phalcon, SQL, NOSQL
+- 💻 Front-End: Javascript, Angular1, Vuejs, REACT
+- ♻  Architecture: MVC, Design Patterns, OOP, TDD
+
 ### 🌱 I'm learning at the moment:
 - ⛪ Laravel architecture.
-- 💻 vuejs.
+- 💻 Vuejs architecture.
 - 📝 Design patterns and best practices thanks to [FullStack_Roadmap](https://roadmap.sh/full-stack) 
 - 📚 Computer science thanks to [CS_Roadmap](https://roadmap.sh/computer-science)
+- 💹 Algorithms
 
 
 ### 📫 You can reach me on:
@@ -13,8 +19,9 @@
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
 [![Contact](https://skillicons.dev/icons?i=twitter)](https://twitter.com/1a738a)
 
-### 🧠 Skills achieved
+### 🧠 Skills compacted
 [![My Skills](https://skillicons.dev/icons?i=php,js,bootstrap,git,materialui,mongodb,mysql,nodejs,vue,laravel,angular,vscode)](https://skillicons.dev)
+
 ### ⚡Fun facts
 Im not only a developer, I'm also a human. Hehe jokes aside.
 - 🧘 I like yoga.
