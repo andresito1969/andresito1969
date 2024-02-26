@@ -2,7 +2,7 @@
 ##  I am a Fullstack web developer who likes elegant code🎩, I also like to implement best practices📝 and I love to learn the path of the clean code📖!
 
 ### 💼 Skills achieved :
-- 🖥  Back-End: PHP, Laravel, Phalcon, SQL, NOSQL
+- 🗄️  Back-End: PHP, Laravel, Phalcon, SQL, NOSQL
 - 💻 Front-End: Javascript, Angular1, Vuejs, REACT
 - ♻  Architecture: MVC, Design Patterns, OOP, TDD
 
