@@ -3,12 +3,12 @@
 
 ### 💼 Skills achieved :
 - 🗄️  Back-End: PHP, Laravel, Phalcon, SQL, NOSQL
-- 💻 Front-End: Javascript, Angular1, Vuejs, REACT
+- 💻 Front-End: Typescript/Javascript, Angular1/2+, Vuejs, REACT
 - ♻  Architecture: MVC, Design Patterns, OOP, TDD
 
 ### 🌱 I'm learning at the moment:
-- ⛪ Laravel architecture.
-- 💻 Vuejs architecture.
+- ⛪ C#.
+- 💻 React architecture.
 - 📝 Design patterns and best practices thanks to [FullStack_Roadmap](https://roadmap.sh/full-stack) 
 - 📚 Computer science thanks to [CS_Roadmap](https://roadmap.sh/computer-science)
 - 💹 Algorithms
@@ -29,6 +29,8 @@ Im not only a developer, I'm also a human. Hehe jokes aside.
 - 👾 I also like League of Legends! I follow it more than even football =) !. (In the "reach on" section I considered it's not good to link my profile xD).
 - 🤓 I love to learn about a lot of stuff, I consider myself as a self-taught
 
+
+## 🌀 Row Row Fight the power!
 <!--
 **andresito1969/andresito1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
