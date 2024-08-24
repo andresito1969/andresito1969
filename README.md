@@ -4,11 +4,11 @@
 ### 💼 Skills achieved :
 - 🗄️  Back-End: PHP, Laravel, Phalcon, SQL, NOSQL
 - 💻 Front-End: Typescript/Javascript, Angular1/2+, Vuejs, REACT
-- ♻  Architecture: MVC, Design Patterns, OOP, TDD
+- ♻  Architecture: MVC, Design Patterns, OOP, TDD, Hexagonal
 
 ### 🌱 I'm learning at the moment:
-- ⛪ C#.
-- 💻 React architecture.
+- ⛪ Nodejs.
+- 💻 Angular in depth.
 - 📝 Design patterns and best practices thanks to [FullStack_Roadmap](https://roadmap.sh/full-stack) 
 - 📚 Computer science thanks to [CS_Roadmap](https://roadmap.sh/computer-science)
 - 💹 Algorithms
@@ -19,7 +19,7 @@
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
 
 ### 🧠 Skills compacted
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,git,materialui,react,laravel,typescript,jest,php,jenkins,git,angular,mongodb,mysql,nodejs,vue,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,jest,materialui,bootstrap,react,redux,angular,vue,git,laravel,php,postman,jenkins,docker,npm,nodejs,mongodb,mysql,nodejs,vscode,linux,ubuntu)](https://skillicons.dev)
 
 ### ⚡Fun facts
 Im not only a developer, I'm also a human. Hehe jokes aside.
