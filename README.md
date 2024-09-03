@@ -19,7 +19,7 @@
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ernestoandresrosillo@gmail.com)
 
 ### 🧠 Skills compacted
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,jest,materialui,bootstrap,react,redux,angular,vue,git,laravel,php,postman,jenkins,docker,npm,nodejs,mongodb,mysql,nodejs,vscode,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,jest,materialui,bootstrap,react,redux,angular,vue,git,laravel,php,postman,jenkins,docker,npm,nodejs,mongodb,mysql,vscode,linux,ubuntu)](https://skillicons.dev)
 
 ### ⚡Fun facts
 Im not only a developer, I'm also a human. Hehe jokes aside.
