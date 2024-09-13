@@ -1,6 +1,8 @@
 ### Hi there 👋 my name is Ernesto Andrés Rosillo Rojas
 ##  I am a **Front-End developer** who likes **elegant code**🎩, I also like to implement **best practices**📝 and I love to learn the path of the **clean code**📖!
 
+### Important, [click here](https://github.com/stars/andresito1969/lists/projects) in order to see all my relevant projects
+
 ### 💼 Skills achieved :
 - 💻 Front-End: **Typescript/Javascript, REACT**, Angular1/2+, Vuejs
 - 🗄️  Back-End: Node, Express, PHP, Laravel, Phalcon, SQL, NOSQL
